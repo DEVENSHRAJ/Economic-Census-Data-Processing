@@ -1,0 +1,131 @@
+
+col=[1,2,3]
+df = pd.DataFrame(columns=['Name', 'Age', 'City', 'Country'])
+
+
+
+RURALSchedule=["Schedule no. cum Record ID","Sector Code","STATE-UT code","DISTRICT code","TEHSIL etc. code","Village code","Enumeration Block No.","Page Number","Line No.","Enterprise Premises Status Code No.","Running Serial No of Enterprise within a page","Activity code (Major or Subsidiary)","Major activity NIC â€“ 2004 Code","Classification code (Agri or Non Agri)","Operation Code (Perennial or Not)","Ownership Code","Social Group of owner code","Power/Fuel used for Enterprise activity","Registration Code (1st code)","Registration Code (2nd code)","Total No. of Persons Usually working :- Adult Male","Total No. of Persons Usually working :- Adult Female","Total No. of Persons Usually working :- Children Male","Total No. of Persons Usually working :- Children Female","Total No. of Persons Usually working :- Total","Non Hired Persons Usually working :- Adult Male","Non Hired Persons Usually working :- Adult Female","Non Hired Persons Usually working :- Children Male","Non Hired Persons Usually working :- Children Female","Non Hired Persons Usually working :- Non-Hired Total (col 17 to 20)","Source of Finance","Address Slip attached (Y or N)","Image No.(Auto generated)","Record No.(Auto Generated)","Batch No."]
+
+
+
+
+Schedule no. cum Record ID 
+Sector Code 
+STATE-UT code
+DISTRICT code
+TEHSIL etc. code
+Village code
+Enumeration Block No.  
+Page Number
+Line No.
+Enterprise Premises Status Code No.
+Running Serial No of Enterprise within a page
+Activity code (Major or Subsidiary)
+Major activity NIC – 2004 Code
+Classification code (Agri or Non Agri)
+Operation Code (Perennial or Not)
+Ownership Code
+Social Group of owner code
+Power/Fuel used for Enterprise activity
+Registration Code (1st code)
+Registration Code (2nd code)
+Total No. of Persons Usually working :- Adult Male 
+Total No. of Persons Usually working :- Adult Female
+Total No. of Persons Usually working :- Children Male
+Total No. of Persons Usually working :- Children Female
+Total No. of Persons Usually working :- Total
+Non Hired Persons Usually working :- Adult Male
+Non Hired Persons Usually working :- Adult Female
+Non Hired Persons Usually working :- Children Male
+Non Hired Persons Usually working :- Children Female
+Non Hired Persons Usually working :- Non-Hired Total (col 17 to 20)
+Source of Finance
+Address Slip attached (Y or N)
+Image No.(Auto generated)
+Record No.(Auto Generated)
+Batch No.
+
+
+
+2
+1
+2
+2
+2
+2
+5
+5
+2
+2
+3	
+1	
+2	
+1	
+4	
+1	
+1	
+1	
+1	
+1	
+1	
+1	
+5	
+3	
+2	
+2	
+5	
+2	
+2	
+2	
+2	
+3	
+1	
+1	
+4	
+4	
+13	
+
+
+
+
+URBAN  Schedule
+Schedule no. cum Record ID
+Sector Code
+STATE-UT code           
+DISTRICT code           
+Town code        
+Frame code
+Ward No.  
+Investigator Unit No.
+UFS Block No.  
+Page Number
+Line No.
+Enterprise Premises Status Code No.
+Running Serial No of Enterprise within a page
+Activity code (Major or Subsidiary)
+Major activity NIC – 2004 Code
+Classification code (Agri or Non Agri)
+Operation Code (Perennial or Not)
+Ownership Code
+Social Group of owner code
+Power/Fuel used for Enterprise activity
+Registration Code (1st code)
+Registration Code (2nd code)
+Total No. of Persons Usually working :- Adult Male 
+Total No. of Persons Usually working :- Adult Female
+Total No. of Persons Usually working :- Children Male
+Total No. of Persons Usually working :- Children Female
+Total No. of Persons Usually working :- Total
+Non Hired Persons Usually working :- Adult Male
+Non Hired Persons Usually working :- Adult Female
+Non Hired Persons Usually working :- Children Male
+Non Hired Persons Usually working :- Children Female
+Non Hired Persons Usually working :- Non-Hired Total (col 17 to 20)
+Source of Finance
+Address Slip attached (Y or N)
+Image No.(Auto generated)
+Record No.(Auto Generated)
+Batch No.
+
+
+URBANSchedule=["Schedule no. cum Record ID","Sector Code","STATE-UT code","DISTRICT code","Town code","Frame code","Ward No.","Investigator Unit No.","UFS Block No.","Page Number","Line No.","Enterprise Premises Status Code No.","Running Serial No of Enterprise within a page","Activity code (Major or Subsidiary)","Major activity NIC â€“ 2004 Code","Classification code (Agri or Non Agri)","Operation Code (Perennial or Not)","Ownership Code","Social Group of owner code","Power/Fuel used for Enterprise activity","Registration Code (1st code)","Registration Code (2nd code)","Total No. of Persons Usually working :- Adult Male","Total No. of Persons Usually working :- Adult Female","Total No. of Persons Usually working :- Children Male","Total No. of Persons Usually working :- Children Female","Total No. of Persons Usually working :- Total","Non Hired Persons Usually working :- Adult Male","Non Hired Persons Usually working :- Adult Female","Non Hired Persons Usually working :- Children Male","Non Hired Persons Usually working :- Children Female","Non Hired Persons Usually working :- Non-Hired Total (col 17 to 20)","Source of Finance","Address Slip attached (Y or N)","Image No.(Auto generated)","Record No.(Auto Generated)","Batch No."]

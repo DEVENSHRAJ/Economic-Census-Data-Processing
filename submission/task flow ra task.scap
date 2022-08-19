@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<ScappleDocument ID="8507ABB0-4D25-4C52-A107-A02167D7956B" Version="1.1">
+   <Notes>
+      <Note Width="45.1904" FontSize="12" ID="0" Position="840.4,126.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>python</String>
+         <ConnectedNoteIDs>3-4, 14, 17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="45.874" FontSize="12" ID="1" Position="5.6,129.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ra-task</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note Width="32.5806" FontSize="12" ID="3" Position="888.1,261.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>rural</String>
+         <ConnectedNoteIDs>0, 7</ConnectedNoteIDs>
+      </Note>
+      <Note Width="39.5874" FontSize="12" ID="4" Position="1056.0,136.1">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>urban</String>
+         <ConnectedNoteIDs>0, 2</ConnectedNoteIDs>
+      </Note>
+      <Note Width="64.8438" FontSize="12" ID="2" Position="1177.1,115.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>dataframe</String>
+         <ConnectedNoteIDs>4-5</ConnectedNoteIDs>
+      </Note>
+      <Note Width="84.3384" FontSize="12" ID="5" Position="1352.9,174.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>define header</String>
+         <ConnectedNoteIDs>2, 6, 13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="132.544" FontSize="12" ID="6" Position="1449.0,231.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>read data from text file</String>
+         <ConnectedNoteIDs>5, 12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="64.8438" FontSize="12" ID="7" Position="946.3,347.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>dataframe</String>
+         <ConnectedNoteIDs>3, 8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="84.3384" FontSize="12" ID="8" Position="1062.7,392.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>define header</String>
+         <ConnectedNoteIDs>7, 9, 13</ConnectedNoteIDs>
+      </Note>
+      <Note Width="132.544" FontSize="12" ID="9" Position="1227.5,397.8">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>read data from text file</String>
+         <ConnectedNoteIDs>8, 10</ConnectedNoteIDs>
+      </Note>
+      <Note Width="70.3735" FontSize="12" ID="10" Position="1381.0,438.4">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>save to csv</String>
+         <ConnectedNoteIDs>9, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="70.3735" FontSize="12" ID="12" Position="1514.6,319.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>save to csv</String>
+         <ConnectedNoteIDs>6, 11</ConnectedNoteIDs>
+      </Note>
+      <Note Width="52.8687" FontSize="12" ID="11" Position="1550.6,427.5">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>q 1 over</String>
+         <ConnectedNoteIDs>10, 12</ConnectedNoteIDs>
+      </Note>
+      <Note Width="162.5" FontSize="12" ID="13" Position="1187.5,276.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>use record layout dictionary</String>
+         <ConnectedNoteIDs>5, 8</ConnectedNoteIDs>
+      </Note>
+      <Note Width="45.1782" FontSize="12" ID="14" Position="805.5,29.0">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>jupyter</String>
+         <ConnectedNoteIDs>0</ConnectedNoteIDs>
+      </Note>
+      <Note Width="49.3652" FontSize="12" ID="15" Position="195.8,126.3">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>q1 start</String>
+         <ConnectedNoteIDs>1, 16</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="16" Position="327.7,131.9">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.844068 0.869596 0.923064</Fill>
+            <Border Weight="1">0.485893 0.568933 0.756207</Border>
+         </Appearance>
+         <String>draft in paper the flow of code</String>
+         <ConnectedNoteIDs>15, 17</ConnectedNoteIDs>
+      </Note>
+      <Note Width="156.25" FontSize="12" ID="17" Position="588.9,127.7">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.808835 0.872419 0.801343</Fill>
+            <Border Weight="1">0.399100 0.583322 0.354864</Border>
+         </Appearance>
+         <String>chop data to smaller amount say 10 rows like that</String>
+         <ConnectedNoteIDs>0, 16</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes/>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Green Bubble" ID="FA107C35-844C-42A3-9A06-84C0E93F529F" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.399100 0.583322 0.354864</BorderColor>
+         <FillColor>0.808835 0.872419 0.801343</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Brown Bubble" ID="15500698-3579-4727-BB66-29C29F50EC06" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.269490 0.164034 0.186694</BorderColor>
+         <FillColor>0.934157 0.888319 0.785290</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Pink Bubble" ID="38EAF889-2696-465C-80D4-D469D154DC3A" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.690303 0.407263 0.550912</BorderColor>
+         <FillColor>0.898329 0.817472 0.865339</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Red Text" ID="A3C65F61-D030-4564-822A-9A56BFB77C78" AffectTextColor="Yes" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <TextColor>1.0 0.0 0.0</TextColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectAlignment="Yes" Name="Title Text" ID="02E053AC-E44C-4A7F-A07C-88AA93DB84E2" AffectTextColor="No" AffectNoteBody="No" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>12.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Yellow Bubble" ID="97F121F1-B19B-4B2C-AB86-FF1BE9008B8B" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.769436 0.762219 0.390143</BorderColor>
+         <FillColor>0.912963 0.894118 0.644541</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectAlignment="No" Name="Blue Bubble" ID="382373AE-9220-4D48-93DB-F6F9FE170E98" AffectTextColor="No" AffectNoteBody="Yes" AffectSticky="No" AffectSize="No" AffectFade="No">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.485893 0.568933 0.756207</BorderColor>
+         <FillColor>0.844068 0.869596 0.923064</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988006 0.945006</BackgroundColor>
+      <DefaultFont>Helvetica</DefaultFont>
+      <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+   </UISettings>
+   <PrintSettings VerticalPagination="Auto" HorizontalPagination="Clip" Orientation="Portrait" RightMargin="12.000000" BottomMargin="12.000000" HorizontallyCentered="Yes" ScaleFactor="1.000000" PagesAcross="1" PaperType="iso-a4" PagesDown="1" TopMargin="12.000000" Collates="Yes" PaperSize="-1.000000,-1.000000" LeftMargin="12.000000" VerticallyCentered="Yes"/>
+</ScappleDocument>

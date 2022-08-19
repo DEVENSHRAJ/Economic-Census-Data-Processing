@@ -1,0 +1,607 @@
+0101JAMMU & KASHMIR               Kupwara 01
+0102JAMMU & KASHMIR               Baramula 02
+0103JAMMU & KASHMIR               Srinagar 03
+0104JAMMU & KASHMIR               Badgam 04
+0105JAMMU & KASHMIR               Pulwama 05
+0106JAMMU & KASHMIR               Anantnag 06
+0107JAMMU & KASHMIR               Leh (Ladakh) 07
+0108JAMMU & KASHMIR               Kargil 08
+0109JAMMU & KASHMIR               Doda 09
+0110JAMMU & KASHMIR               Udhampur 10
+0111JAMMU & KASHMIR               Poonch 11
+0112JAMMU & KASHMIR               Rajauri 12
+0113JAMMU & KASHMIR               Jammu 13
+0114JAMMU & KASHMIR               Kathua 14
+0201HIMACHAL PRADESH              Chamba 01
+0202HIMACHAL PRADESH              Kangra 02
+0203HIMACHAL PRADESH              Lahul & Spiti 03
+0204HIMACHAL PRADESH              Kullu 04
+0205HIMACHAL PRADESH              Mandi 05
+0206HIMACHAL PRADESH              Hamirpur 06
+0207HIMACHAL PRADESH              Una 07
+0208HIMACHAL PRADESH              Bilaspur 08
+0209HIMACHAL PRADESH              Solan 09
+0210HIMACHAL PRADESH              Sirmaur 10
+0211HIMACHAL PRADESH              Shimla 11
+0212HIMACHAL PRADESH              Kinnaur 12
+0301PUNJAB                        Gurdaspur 01
+0302PUNJAB                        Amritsar 02
+0303PUNJAB                        Kapurthala 03
+0304PUNJAB                        Jalandhar 04
+0305PUNJAB                        Hoshiarpur 05
+0306PUNJAB                        Nawanshahr * 06
+0307PUNJAB                        Rupnagar 07
+0308PUNJAB                        Fatehgarh Sahib * 08
+0309PUNJAB                        Ludhiana 09
+0310PUNJAB                        Moga * 10
+0311PUNJAB                        Firozpur 11
+0312PUNJAB                        Muktsar * 12
+0313PUNJAB                        Faridkot 13
+0314PUNJAB                        Bathinda 14
+0315PUNJAB                        Mansa * 15
+0316PUNJAB                        Sangrur 16
+0317PUNJAB                        Patiala 17
+0401CHANDIGARH                    Chandigarh 01
+0501UTTARANCHAL                   Uttarkashi 01
+0502UTTARANCHAL                   Chamoli 02
+0503UTTARANCHAL                   Rudraprayag * 03
+0504UTTARANCHAL                   Tehri Garhwal 04
+0505UTTARANCHAL                   Dehradun 05
+0506UTTARANCHAL                   Garhwal 06
+0507UTTARANCHAL                   Pithoragarh 07
+0508UTTARANCHAL                   Bageshwar 08
+0509UTTARANCHAL                   Almora 09
+0510UTTARANCHAL                   Champawat 10
+0511UTTARANCHAL                   Nainital 11
+0512UTTARANCHAL                   Udham Singh Nagar * 12
+0513UTTARANCHAL                   Hardwar 13
+0601HARYANA                       Panchkula * 01
+0602HARYANA                       Ambala 02
+0603HARYANA                       Yamunanagar 03
+0604HARYANA                       Kurukshetra 04
+0605HARYANA                       Kaithal 05
+0606HARYANA                       Karnal 06
+0607HARYANA                       Panipat 07
+0608HARYANA                       Sonipat 08
+0609HARYANA                       Jind 09
+0610HARYANA                       Fatehabad * 10
+0611HARYANA                       Sirsa 11
+0612HARYANA                       Hisar 12
+0613HARYANA                       Bhiwani 13
+0614HARYANA                       Rohtak 14
+0615HARYANA                       Jhajjar * 15
+0616HARYANA                       Mahendragarh 16
+0617HARYANA                       Rewari 17
+0618HARYANA                       Gurgaon 18
+0619HARYANA                       Faridabad 19
+0701DELHI                         North West * 01
+0702DELHI                         North * 02
+0703DELHI                         North East * 03
+0704DELHI                         East * 04
+0705DELHI                         New Delhi 05
+0706DELHI                         Central * 06
+0707DELHI                         West * 07
+0708DELHI                         South West * 08
+0709DELHI                         South * 09
+0801RAJASTHAN                     Ganganagar 01
+0802RAJASTHAN                     Hanumangarh * 02
+0803RAJASTHAN                     Bikaner 03
+0804RAJASTHAN                     Churu 04
+0805RAJASTHAN                     Jhunjhunun 05
+0806RAJASTHAN                     Alwar 06
+0807RAJASTHAN                     Bharatpur 07
+0808RAJASTHAN                     Dhaulpur 08
+0809RAJASTHAN                     Karauli * 09
+0810RAJASTHAN                     Sawai Madhopur 10
+0811RAJASTHAN                     Dausa * 11
+0812RAJASTHAN                     Jaipur 12
+0813RAJASTHAN                     Sikar 13
+0814RAJASTHAN                     Nagaur 14
+0815RAJASTHAN                     Jodhpur 15
+0816RAJASTHAN                     Jaisalmer 16
+0817RAJASTHAN                     Barmer 17
+0818RAJASTHAN                     Jalor 18
+0819RAJASTHAN                     Sirohi 19
+0820RAJASTHAN                     Pali 20
+0821RAJASTHAN                     Ajmer 21
+0822RAJASTHAN                     Tonk 22
+0823RAJASTHAN                     Bundi 23
+0824RAJASTHAN                     Bhilwara 24
+0825RAJASTHAN                     Rajsamand * 25
+0826RAJASTHAN                     Udaipur 26
+0827RAJASTHAN                     Dungarpur 27
+0828RAJASTHAN                     Banswara 28
+0829RAJASTHAN                     Chittaurgarh 29
+0830RAJASTHAN                     Kota 30
+0831RAJASTHAN                     Baran * 31
+0832RAJASTHAN                     Jhalawar 32
+0901UTTAR PRADESH                 Saharanpur 01
+0902UTTAR PRADESH                 Muzaffarnagar 02
+0903UTTAR PRADESH                 Bijnor 03
+0904UTTAR PRADESH                 Moradabad 04
+0905UTTAR PRADESH                 Rampur 05
+0906UTTAR PRADESH                 Jyotiba Phule Nagar * 06
+0907UTTAR PRADESH                 Meerut 07
+0908UTTAR PRADESH                 Baghpat * 08
+0909UTTAR PRADESH                 Ghaziabad 09
+0910UTTAR PRADESH                 Gautam Buddha Nagar * 10
+0911UTTAR PRADESH                 Bulandshahr 11
+0912UTTAR PRADESH                 Aligarh 12
+0913UTTAR PRADESH                 Hathras * 13
+0914UTTAR PRADESH                 Mathura 14
+0915UTTAR PRADESH                 Agra 15
+0916UTTAR PRADESH                 Firozabad 16
+0917UTTAR PRADESH                 Etah 17
+0918UTTAR PRADESH                 Mainpuri 18
+0919UTTAR PRADESH                 Budaun 19
+0920UTTAR PRADESH                 Bareilly 20
+0921UTTAR PRADESH                 Pilibhit 21
+0922UTTAR PRADESH                 Shahjahanpur 22
+0923UTTAR PRADESH                 Kheri 23
+0924UTTAR PRADESH                 Sitapur 24
+0925UTTAR PRADESH                 Hardoi 25
+0926UTTAR PRADESH                 Unnao 26
+0927UTTAR PRADESH                 Lucknow 27
+0928UTTAR PRADESH                 Rae Bareli 28
+0929UTTAR PRADESH                 Farrukhabad 29
+0930UTTAR PRADESH                 Kannauj * 30
+0931UTTAR PRADESH                 Etawah 31
+0932UTTAR PRADESH                 Auraiya * 32
+0933UTTAR PRADESH                 Kanpur Dehat 33
+0934UTTAR PRADESH                 Kanpur Nagar 34
+0935UTTAR PRADESH                 Jalaun 35
+0936UTTAR PRADESH                 Jhansi 36
+0937UTTAR PRADESH                 Lalitpur 37
+0938UTTAR PRADESH                 Hamirpur 38
+0939UTTAR PRADESH                 Mahoba * 39
+0940UTTAR PRADESH                 Banda 40
+0941UTTAR PRADESH                 Chitrakoot * 41
+0942UTTAR PRADESH                 Fatehpur 42
+0943UTTAR PRADESH                 Pratapgarh 43
+0944UTTAR PRADESH                 Kaushambi * 44
+0945UTTAR PRADESH                 Allahabad 45
+0946UTTAR PRADESH                 Barabanki 46
+0947UTTAR PRADESH                 Faizabad 47
+0948UTTAR PRADESH                 Ambedkar Nagar * 48
+0949UTTAR PRADESH                 Sultanpur 49
+0950UTTAR PRADESH                 Bahraich 50
+0951UTTAR PRADESH                 Shrawasti * 51
+0952UTTAR PRADESH                 Balrampur * 52
+0953UTTAR PRADESH                 Gonda 53
+0954UTTAR PRADESH                 Siddharthnagar 54
+0955UTTAR PRADESH                 Basti 55
+0956UTTAR PRADESH                 Sant Kabir Nagar * 56
+0957UTTAR PRADESH                 Maharajganj 57
+0958UTTAR PRADESH                 Gorakhpur 58
+0959UTTAR PRADESH                 Kushinagar * 59
+0960UTTAR PRADESH                 Deoria 60
+0961UTTAR PRADESH                 Azamgarh 61
+0962UTTAR PRADESH                 Mau 62
+0963UTTAR PRADESH                 Ballia 63
+0964UTTAR PRADESH                 Jaunpur 64
+0965UTTAR PRADESH                 Ghazipur 65
+0966UTTAR PRADESH                 Chandauli * 66
+0967UTTAR PRADESH                 Varanasi 67
+0968UTTAR PRADESH                 Sant Ravidas Nagar Bhadohi * 68
+0969UTTAR PRADESH                 Mirzapur 69
+0970UTTAR PRADESH                 Sonbhadra 70
+1001BIHAR                         Pashchim Champaran 01
+1002BIHAR                         Purba Champaran 02
+1003BIHAR                         Sheohar * 03
+1004BIHAR                         Sitamarhi 04
+1005BIHAR                         Madhubani 05
+1006BIHAR                         Supaul * 06
+1007BIHAR                         Araria 07
+1008BIHAR                         Kishanganj 08
+1009BIHAR                         Purnia 09
+1010BIHAR                         Katihar 10
+1011BIHAR                         Madhepura 11
+1012BIHAR                         Saharsa 12
+1013BIHAR                         Darbhanga 13
+1014BIHAR                         Muzaffarpur 14
+1015BIHAR                         Gopalganj 15
+1016BIHAR                         Siwan 16
+1017BIHAR                         Saran 17
+1018BIHAR                         Vaishali 18
+1019BIHAR                         Samastipur 19
+1020BIHAR                         Begusarai 20
+1021BIHAR                         Khagaria 21
+1022BIHAR                         Bhagalpur 22
+1023BIHAR                         Banka * 23
+1024BIHAR                         Munger 24
+1025BIHAR                         Lakhisarai * 25
+1026BIHAR                         Sheikhpura * 26
+1027BIHAR                         Nalanda 27
+1028BIHAR                         Patna 28
+1029BIHAR                         Bhojpur 29
+1030BIHAR                         Buxar * 30
+1031BIHAR                         Kaimur (Bhabua) * 31
+1032BIHAR                         Rohtas 32
+1033BIHAR                         Jehanabad 33
+1034BIHAR                         Aurangabad 34
+1035BIHAR                         Gaya 35
+1036BIHAR                         Nawada 36
+1037BIHAR                         Jamui * 37
+1038BIHAR                         ARVAL * 38
+1101SIKKIM                        North 01
+1102SIKKIM                        West 02
+1103SIKKIM                        South 03
+1104SIKKIM                        East 04
+1201ARUNACHAL PRADESH             Tawang 01
+1202ARUNACHAL PRADESH             West Kameng 02
+1203ARUNACHAL PRADESH             East Kameng 03
+1204ARUNACHAL PRADESH             Papum Pare * 04
+1205ARUNACHAL PRADESH             Lower Subansiri 05
+1206ARUNACHAL PRADESH             Upper Subansiri 06
+1207ARUNACHAL PRADESH             West Siang 07
+1208ARUNACHAL PRADESH             East Siang 08
+1209ARUNACHAL PRADESH             Upper Siang * 09
+1210ARUNACHAL PRADESH             Dibang Valley 10
+1211ARUNACHAL PRADESH             Lohit 11
+1212ARUNACHAL PRADESH             Changlang 12
+1213ARUNACHAL PRADESH             Tirap 13
+1301NAGALAND                      Mon 01
+1302NAGALAND                      Tuensang 02
+1303NAGALAND                      Mokokchung 03
+1304NAGALAND                      Zunheboto 04
+1305NAGALAND                      Wokha 05
+1306NAGALAND                      Dimapur * 06
+1307NAGALAND                      Kohima 07
+1308NAGALAND                      Phek 08
+1401MANIPUR                       Senapati 01
+1402MANIPUR                       Tamenglong 02
+1403MANIPUR                       Churachandpur 03
+1404MANIPUR                       Bishnupur 04
+1405MANIPUR                       Thoubal 05
+1406MANIPUR                       Imphal West 06
+1407MANIPUR                       Imphal East * 07
+1408MANIPUR                       Ukhrul 08
+1409MANIPUR                       Chandel 09
+1501MIZORAM                       Mamit * 01
+1502MIZORAM                       Kolasib * 02
+1503MIZORAM                       Aizawl 03
+1504MIZORAM                       Champhai * 04
+1505MIZORAM                       Serchhip * 05
+1506MIZORAM                       Lunglei 06
+1507MIZORAM                       Lawngtlai 07
+1508MIZORAM                       Saiha * 08
+1601TRIPURA                       West Tripura 01
+1602TRIPURA                       South Tripura 02
+1603TRIPURA                       Dhalai * 03
+1604TRIPURA                       North Tripura 04
+1701MEGHALAYA                     West Garo Hills 01
+1702MEGHALAYA                     East Garo Hills 02
+1703MEGHALAYA                     South Garo Hills * 03
+1704MEGHALAYA                     West Khasi Hills 04
+1705MEGHALAYA                     Ri Bhoi * 05
+1706MEGHALAYA                     East Khasi Hills 06
+1707MEGHALAYA                     Jaintia Hills 07
+1801ASSAM                         Kokrajhar 01
+1802ASSAM                         Dhubri 02
+1803ASSAM                         Goalpara 03
+1804ASSAM                         Bongaigaon 04
+1805ASSAM                         Barpeta 05
+1806ASSAM                         Kamrup 06
+1807ASSAM                         Nalbari 07
+1808ASSAM                         Darrang 08
+1809ASSAM                         Marigaon 09
+1810ASSAM                         Nagaon 10
+1811ASSAM                         Sonitpur 11
+1812ASSAM                         Lakhimpur 12
+1813ASSAM                         Dhemaji 13
+1814ASSAM                         Tinsukia 14
+1815ASSAM                         Dibrugarh 15
+1816ASSAM                         Sibsagar 16
+1817ASSAM                         Jorhat 17
+1818ASSAM                         Golaghat 18
+1819ASSAM                         Karbi Anglong 19
+1820ASSAM                         North Cachar Hills 20
+1821ASSAM                         Cachar 21
+1822ASSAM                         Karimganj 22
+1823ASSAM                         Hailakandi 23
+1824ASSAM                         Chirang 24
+1825ASSAM                         Baska  25
+1826ASSAM                         Udalguri 26
+1827ASSAM                         Kamrup (Metro) 27
+1901WEST BENGAL                   Darjiling 01
+1902WEST BENGAL                   Jalpaiguri 02
+1903WEST BENGAL                   Koch Bihar 03
+1904WEST BENGAL                   Uttar Dinajpur 04
+1905WEST BENGAL                   Dakshin Dinajpur * 05
+1906WEST BENGAL                   Maldah 06
+1907WEST BENGAL                   Murshidabad 07
+1908WEST BENGAL                   Birbhum 08
+1909WEST BENGAL                   Barddhaman 09
+1910WEST BENGAL                   Nadia 10
+1911WEST BENGAL                   North Twenty Four Parganas 11
+1912WEST BENGAL                   Hugli 12
+1913WEST BENGAL                   Bankura 13
+1914WEST BENGAL                   Puruliya 14
+1915WEST BENGAL                   Paschim Midnapor 15
+1916WEST BENGAL                   Haora 16
+1917WEST BENGAL                   Kolkata 17
+1918WEST BENGAL                   South Twenty Four Parganas 18
+1919WEST BENGAL                   Purba Medinipur
+2001JHARKHAND                     Garhwa * 01
+2002JHARKHAND                     Palamu 02
+2003JHARKHAND                     Chatra * 03
+2004JHARKHAND                     Hazaribag 04
+2005JHARKHAND                     Kodarma * 05
+2006JHARKHAND                     Giridih 06
+2007JHARKHAND                     Deoghar 07
+2008JHARKHAND                     Godda 08
+2009JHARKHAND                     Sahibganj 09
+2010JHARKHAND                     Pakaur * 10
+2011JHARKHAND                     Dumka 11
+2012JHARKHAND                     Dhanbad 12
+2013JHARKHAND                     Bokaro * 13
+2014JHARKHAND                     Ranchi 14
+2015JHARKHAND                     Lohardaga 15
+2016JHARKHAND                     Gumla 16
+2017JHARKHAND                     Pashchimi Singhbhum 17
+2018JHARKHAND                     Purbi Singhbhum 18
+2019JHARKHAND                     Latehar
+2020JHARKHAND                     Simdega
+2021JHARKHAND                     Jamtara
+2022JHARKHAND                     Seraikela Kharswan
+2101ORISSA                        Bargarh * 01
+2102ORISSA                        Jharsuguda * 02
+2103ORISSA                        Sambalpur 03
+2104ORISSA                        Debagarh * 04
+2105ORISSA                        Sundargarh 05
+2106ORISSA                        Kendujhar 06
+2107ORISSA                        Mayurbhanj 07
+2108ORISSA                        Baleshwar 08
+2109ORISSA                        Bhadrak * 09
+2110ORISSA                        Kendrapara * 10
+2111ORISSA                        Jagatsinghapur * 11
+2112ORISSA                        Cuttack 12
+2113ORISSA                        Jajapur * 13
+2114ORISSA                        Dhenkanal 14
+2115ORISSA                        Anugul * 15
+2116ORISSA                        Nayagarh * 16
+2117ORISSA                        Khordha * 17
+2118ORISSA                        Puri 18
+2119ORISSA                        Ganjam 19
+2120ORISSA                        Gajapati * 20
+2121ORISSA                        Kandhamal 21
+2122ORISSA                        Baudh * 22
+2123ORISSA                        Sonapur * 23
+2124ORISSA                        Balangir 24
+2125ORISSA                        Nuapada * 25
+2126ORISSA                        Kalahandi 26
+2127ORISSA                        Rayagada * 27
+2128ORISSA                        Nabarangapur * 28
+2129ORISSA                        Koraput 29
+2130ORISSA                        Malkangiri * 30
+2201CHHATISGARH                   Koriya * 01
+2202CHHATISGARH                   Surguja 02
+2203CHHATISGARH                   Jashpur * 03
+2204CHHATISGARH                   Raigarh 04
+2205CHHATISGARH                   Korba * 05
+2206CHHATISGARH                   Janjgir - Champa * 06
+2207CHHATISGARH                   Bilaspur 07
+2208CHHATISGARH                   Kawardha * 08
+2209CHHATISGARH                   Rajnandgaon 09
+2210CHHATISGARH                   Durg 10
+2211CHHATISGARH                   Raipur 11
+2212CHHATISGARH                   Mahasamund * 12
+2213CHHATISGARH                   Dhamtari * 13
+2214CHHATISGARH                   Kanker * 14
+2215CHHATISGARH                   Bastar 15
+2216CHHATISGARH                   Dantewada * 16
+2301MADHYA PRADESH                Sheopur * 01
+2302MADHYA PRADESH                Morena 02
+2303MADHYA PRADESH                Bhind 03
+2304MADHYA PRADESH                Gwalior 04
+2305MADHYA PRADESH                Datia 05
+2306MADHYA PRADESH                Shivpuri 06
+2307MADHYA PRADESH                Guna 07
+2308MADHYA PRADESH                Tikamgarh 08
+2309MADHYA PRADESH                Chhatarpur 09
+2310MADHYA PRADESH                Panna 10
+2311MADHYA PRADESH                Sagar 11
+2312MADHYA PRADESH                Damoh 12
+2313MADHYA PRADESH                Satna 13
+2314MADHYA PRADESH                Rewa 14
+2315MADHYA PRADESH                Umaria * 15
+2316MADHYA PRADESH                Shahdol 16
+2317MADHYA PRADESH                Sidhi 17
+2318MADHYA PRADESH                Neemuch * 18
+2319MADHYA PRADESH                Mandsaur 19
+2320MADHYA PRADESH                Ratlam 20
+2321MADHYA PRADESH                Ujjain 21
+2322MADHYA PRADESH                Shajapur 22
+2323MADHYA PRADESH                Dewas 23
+2324MADHYA PRADESH                Jhabua 24
+2325MADHYA PRADESH                Dhar 25
+2326MADHYA PRADESH                Indore 26
+2327MADHYA PRADESH                West Nimar 27
+2328MADHYA PRADESH                Barwani * 28
+2329MADHYA PRADESH                East Nimar 29
+2330MADHYA PRADESH                Rajgarh 30
+2331MADHYA PRADESH                Vidisha 31
+2332MADHYA PRADESH                Bhopal 32
+2333MADHYA PRADESH                Sehore 33
+2334MADHYA PRADESH                Raisen 34
+2335MADHYA PRADESH                Betul 35
+2336MADHYA PRADESH                Harda * 36
+2337MADHYA PRADESH                Hoshangabad 37
+2338MADHYA PRADESH                Katni * 38
+2339MADHYA PRADESH                Jabalpur 39
+2340MADHYA PRADESH                Narsimhapur 40
+2341MADHYA PRADESH                Dindori * 41
+2342MADHYA PRADESH                Mandla 42
+2343MADHYA PRADESH                Chhindwara 43
+2344MADHYA PRADESH                Seoni 44
+2345MADHYA PRADESH                Balaghat 45
+2346MADHYA PRADESH                Ashok Nagar
+2347MADHYA PRADESH                Anuppur
+2348MADHYA PRADESH                Burhanpor
+2401GUJARAT                       Kachchh 01
+2402GUJARAT                       Banas Kantha 02
+2403GUJARAT                       Patan * 03
+2404GUJARAT                       Mahesana 04
+2405GUJARAT                       Sabar Kantha 05
+2406GUJARAT                       Gandhinagar 06
+2407GUJARAT                       Ahmadabad 07
+2408GUJARAT                       Surendranagar 08
+2409GUJARAT                       Rajkot 09
+2410GUJARAT                       Jamnagar 10
+2411GUJARAT                       Porbandar * 11
+2412GUJARAT                       Junagadh 12
+2413GUJARAT                       Amreli 13
+2414GUJARAT                       Bhavnagar 14
+2415GUJARAT                       Anand * 15
+2416GUJARAT                       Kheda 16
+2417GUJARAT                       Panch Mahals 17
+2418GUJARAT                       Dohad * 18
+2419GUJARAT                       Vadodara 19
+2420GUJARAT                       Narmada * 20
+2421GUJARAT                       Bharuch 21
+2422GUJARAT                       Surat 22
+2423GUJARAT                       The Dangs 23
+2424GUJARAT                       Navsari * 24
+2425GUJARAT                       Valsad 25
+2501DAMAN & DIU                   Diu 01
+2502DAMAN & DIU                   Daman 02
+2601DADRA & NAGAR HAVELI          Dadra & Nagar Haveli 01
+2701MAHARASHTRA                   Nandurbar * 01
+2702MAHARASHTRA                   Dhule 02
+2703MAHARASHTRA                   Jalgaon 03
+2704MAHARASHTRA                   Buldana 04
+2705MAHARASHTRA                   Akola 05
+2706MAHARASHTRA                   Washim * 06
+2707MAHARASHTRA                   Amravati 07
+2708MAHARASHTRA                   Wardha 08
+2709MAHARASHTRA                   Nagpur 09
+2710MAHARASHTRA                   Bhandara 10
+2711MAHARASHTRA                   Gondiya * 11
+2712MAHARASHTRA                   Gadchiroli 12
+2713MAHARASHTRA                   Chandrapur 13
+2714MAHARASHTRA                   Yavatmal 14
+2715MAHARASHTRA                   Nanded 15
+2716MAHARASHTRA                   Hingoli * 16
+2717MAHARASHTRA                   Parbhani 17
+2718MAHARASHTRA                   Jalna 18
+2719MAHARASHTRA                   Aurangabad 19
+2720MAHARASHTRA                   Nashik 20
+2721MAHARASHTRA                   Thane 21
+2722MAHARASHTRA                   Mumbai  * 22
+2724MAHARASHTRA                   Raigarh 24
+2725MAHARASHTRA                   Pune 25
+2726MAHARASHTRA                   Ahmadnagar 26
+2727MAHARASHTRA                   Bid 27
+2728MAHARASHTRA                   Latur 28
+2729MAHARASHTRA                   Osmanabad 29
+2730MAHARASHTRA                   Solapur 30
+2731MAHARASHTRA                   Satara 31
+2732MAHARASHTRA                   Ratnagiri 32
+2733MAHARASHTRA                   Sindhudurg 33
+2734MAHARASHTRA                   Kolhapur 34
+2735MAHARASHTRA                   Sangli 35
+2801ANDHRA PRADESH                Adilabad 01
+2802ANDHRA PRADESH                Nizamabad 02
+2803ANDHRA PRADESH                Karimnagar 03
+2804ANDHRA PRADESH                Medak 04
+2805ANDHRA PRADESH                Hyderabad 05
+2806ANDHRA PRADESH                Rangareddy 06
+2807ANDHRA PRADESH                Mahbubnagar 07
+2808ANDHRA PRADESH                Nalgonda 08
+2809ANDHRA PRADESH                Warangal 09
+2810ANDHRA PRADESH                Khammam 10
+2811ANDHRA PRADESH                Srikakulam 11
+2812ANDHRA PRADESH                Vizianagaram 12
+2813ANDHRA PRADESH                Visakhapatnam 13
+2814ANDHRA PRADESH                East Godavari 14
+2815ANDHRA PRADESH                West Godavari 15
+2816ANDHRA PRADESH                Krishna 16
+2817ANDHRA PRADESH                Guntur 17
+2818ANDHRA PRADESH                Prakasam 18
+2819ANDHRA PRADESH                Nellore 19
+2820ANDHRA PRADESH                Cuddapah 20
+2821ANDHRA PRADESH                Kurnool 21
+2822ANDHRA PRADESH                Anantapur 22
+2823ANDHRA PRADESH                Chittoor 23
+2901KARNATAKA                     Belgaum 01
+2902KARNATAKA                     Bagalkot * 02
+2903KARNATAKA                     Bijapur 03
+2904KARNATAKA                     Gulbarga 04
+2905KARNATAKA                     Bidar 05
+2906KARNATAKA                     Raichur 06
+2907KARNATAKA                     Koppal * 07
+2908KARNATAKA                     Gadag * 08
+2909KARNATAKA                     Dharwad 09
+2910KARNATAKA                     Uttara Kannada 10
+2911KARNATAKA                     Haveri * 11
+2912KARNATAKA                     Bellary 12
+2913KARNATAKA                     Chitradurga 13
+2914KARNATAKA                     Davanagere * 14
+2915KARNATAKA                     Shimoga 15
+2916KARNATAKA                     Udupi * 16
+2917KARNATAKA                     Chikmagalur 17
+2918KARNATAKA                     Tumkur 18
+2919KARNATAKA                     Kolar 19
+2920KARNATAKA                     Bangalore 20
+2921KARNATAKA                     Bangalore Rural 21
+2922KARNATAKA                     Mandya 22
+2923KARNATAKA                     Hassan 23
+2924KARNATAKA                     Dakshina Kannada 24
+2925KARNATAKA                     Kodagu 25
+2926KARNATAKA                     Mysore 26
+2927KARNATAKA                     Chamarajanagar * 27
+3001GOA                           North Goa 01
+3002GOA                           South Goa 02
+3101LAKSHADWEEP                   Lakshadweep 01
+3201KERALA                        Kasaragod 01
+3202KERALA                        Kannur 02
+3203KERALA                        Wayanad 03
+3204KERALA                        Kozhikode 04
+3205KERALA                        Malappuram 05
+3206KERALA                        Palakkad 06
+3207KERALA                        Thrissur 07
+3208KERALA                        Ernakulam 08
+3209KERALA                        Idukki 09
+3210KERALA                        Kottayam 10
+3211KERALA                        Alappuzha 11
+3212KERALA                        Pathanamthitta 12
+3213KERALA                        Kollam 13
+3214KERALA                        Thiruvananthapuram 14
+3301TAMIL NADU                    Thiruvallur 01
+3302TAMIL NADU                    Chennai 02
+3303TAMIL NADU                    Kancheepuram 03
+3304TAMIL NADU                    Vellore 04
+3305TAMIL NADU                    Dharmapuri 05
+3306TAMIL NADU                    Tiruvannamalai 06
+3307TAMIL NADU                    Viluppuram 07
+3308TAMIL NADU                    Salem 08
+3309TAMIL NADU                    Namakkal * 09
+3310TAMIL NADU                    Erode 10
+3311TAMIL NADU                    The Nilgiris 11
+3312TAMIL NADU                    Coimbatore 12
+3313TAMIL NADU                    Dindigul 13
+3314TAMIL NADU                    Karur * 14
+3315TAMIL NADU                    Tiruchirappalli 15
+3316TAMIL NADU                    Perambalur * 16
+3317TAMIL NADU                    Ariyalur * 17
+3318TAMIL NADU                    Cuddalore 18
+3319TAMIL NADU                    Nagapattinam * 19
+3320TAMIL NADU                    Thiruvarur 20
+3321TAMIL NADU                    Thanjavur 21
+3322TAMIL NADU                    Pudukkottai 22
+3323TAMIL NADU                    Sivaganga 23
+3324TAMIL NADU                    Madurai 24
+3325TAMIL NADU                    Theni * 25
+3326TAMIL NADU                    Virudhunagar 26
+3327TAMIL NADU                    Ramanathapuram 27
+3328TAMIL NADU                    Thoothukkudi 28
+3329TAMIL NADU                    Tirunelveli 29
+3330TAMIL NADU                    Kanniyakumari 30
+3331TAMIL NADU                    Krishnagiri
+3401PONDICHERRY                   Yanam 01
+3402PONDICHERRY                   Pondicherry 02
+3403PONDICHERRY                   Mahe 03
+3404PONDICHERRY                   Karaikal 04
+3501ANDAMAN & NICOBAR ISLAN       Andamans 01
+3502ANDAMAN & NICOBAR ISLAN       Nicobars 02
+
